@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "samples": [
+    {
+      "timestamp": "2026-09-19T15:20:02+09:00",
+      "features": {
+        "left_arm_angle": 81.94,
+        "right_arm_angle": 115.43,
+        "arm_angle_difference": 33.48,
+        "left_arm_height": 0.1833,
+        "right_arm_height": 0.1926,
+        "wrist_height_difference": 0.0208,
+        "measurement_quality": 0.94
+      }
+    },
+    {
+      "timestamp": "2026-09-19T15:22:53+09:00",
+      "features": {
+        "left_arm_angle": 80.02,
+        "right_arm_angle": 74.78,
+        "arm_angle_difference": 5.24,
+        "left_arm_height": -0.1838,
+        "right_arm_height": -0.1816,
+        "wrist_height_difference": 0.0087,
+        "measurement_quality": 0.936
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:50:34+09:00",
+      "features": {
+        "left_arm_angle": 50.2,
+        "right_arm_angle": 10.39,
+        "arm_angle_difference": 39.8,
+        "left_arm_height": 0.0719,
+        "right_arm_height": 0.0636,
+        "wrist_height_difference": 0.0111,
+        "measurement_quality": 0.952
+      }
+    }
+  ],
+  "summary": {
+    "left_arm_angle": {
+      "mean": 70.72,
+      "stddev": 14.531,
+      "min": 50.2,
+      "max": 81.94
+    },
+    "right_arm_angle": {
+      "mean": 66.8667,
+      "stddev": 43.2459,
+      "min": 10.39,
+      "max": 115.43
+    },
+    "arm_angle_difference": {
+      "mean": 26.1733,
+      "stddev": 15.0253,
+      "min": 5.24,
+      "max": 39.8
+    },
+    "left_arm_height": {
+      "mean": 0.0238,
+      "stddev": 0.1537,
+      "min": -0.1838,
+      "max": 0.1833
+    },
+    "right_arm_height": {
+      "mean": 0.0249,
+      "stddev": 0.1552,
+      "min": -0.1816,
+      "max": 0.1926
+    },
+    "wrist_height_difference": {
+      "mean": 0.0135,
+      "stddev": 0.0052,
+      "min": 0.0087,
+      "max": 0.0208
+    },
+    "measurement_quality": {
+      "mean": 0.9427,
+      "stddev": 0.0068,
+      "min": 0.936,
+      "max": 0.952
+    }
+  },
+  "updated_at": "2026-09-19T16:50:34+09:00"
+}

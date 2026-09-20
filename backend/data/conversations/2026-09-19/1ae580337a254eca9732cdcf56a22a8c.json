@@ -1,0 +1,19 @@
+{
+  "conversation_id": "1ae580337a254eca9732cdcf56a22a8c",
+  "event_id": "fixed-routine-55876b26-0d07-4f47-8869-a27cc7e97992",
+  "timestamp": "2026-09-19T21:11:45+09:00",
+  "agent_question": "오늘 하루 보내시면서 가장 기분 좋았던 순간은 언제인가요?",
+  "transcript": "",
+  "voice_features": {},
+  "comparison_to_baseline": {},
+  "context_summary": "",
+  "next_action": "awaiting_response",
+  "provider": "gemini",
+  "follow_up_count": 0,
+  "turns": [
+    {
+      "role": "agent",
+      "message": "오늘 하루 보내시면서 가장 기분 좋았던 순간은 언제인가요?"
+    }
+  ]
+}

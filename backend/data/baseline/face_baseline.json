@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "samples": [
+    {
+      "timestamp": "2026-09-19T20:47:57+09:00",
+      "features": {
+        "mouth_tilt": 0.0099,
+        "nose_center_offset": -0.0108,
+        "mouth_eye_distance": 0.4349,
+        "measurement_quality": 0.769
+      }
+    },
+    {
+      "timestamp": "2026-09-19T20:52:35+09:00",
+      "features": {
+        "mouth_tilt": 0.0069,
+        "nose_center_offset": 0.001,
+        "mouth_eye_distance": 0.4467,
+        "measurement_quality": 0.874
+      }
+    },
+    {
+      "timestamp": "2026-09-19T20:55:04+09:00",
+      "features": {
+        "mouth_tilt": 0.0065,
+        "nose_center_offset": 0.0173,
+        "mouth_eye_distance": 0.4556,
+        "measurement_quality": 0.769
+      }
+    }
+  ],
+  "summary": {
+    "mouth_tilt": {
+      "mean": 0.0078,
+      "stddev": 0.0015,
+      "min": 0.0065,
+      "max": 0.0099
+    },
+    "nose_center_offset": {
+      "mean": 0.0025,
+      "stddev": 0.0115,
+      "min": -0.0108,
+      "max": 0.0173
+    },
+    "mouth_eye_distance": {
+      "mean": 0.4457,
+      "stddev": 0.0085,
+      "min": 0.4349,
+      "max": 0.4556
+    },
+    "measurement_quality": {
+      "mean": 0.804,
+      "stddev": 0.0495,
+      "min": 0.769,
+      "max": 0.874
+    }
+  },
+  "updated_at": "2026-09-19T20:55:04+09:00"
+}

@@ -1,0 +1,137 @@
+{
+  "conversation_id": "a590c7b805f641298fde5429725c2239",
+  "event_id": "fixed-routine-2662db18-fffe-48a5-b3cd-d96d7ebab4ba",
+  "timestamp": "2026-09-19T21:46:44+09:00",
+  "agent_question": "오늘 오후에는 주로 어떤 일을 하시면서 시간을 보내셨나요?",
+  "transcript": "",
+  "voice_features": {},
+  "comparison_to_baseline": {},
+  "context_summary": "",
+  "next_action": "awaiting_response",
+  "urgent_alert": false,
+  "urgent_message": null,
+  "provider": "gemini",
+  "measurement_context": {
+    "pose": {
+      "success": true,
+      "quality": 0.986,
+      "features": {
+        "left_arm_angle": 37.29,
+        "right_arm_angle": 69.09,
+        "arm_angle_difference": 31.8,
+        "left_arm_height": -0.0452,
+        "right_arm_height": 0.0711,
+        "wrist_height_difference": 0.1426,
+        "measurement_quality": 0.986
+      },
+      "change_from_baseline": {
+        "available": true,
+        "sample_count": 3,
+        "significant_change": true,
+        "features": {
+          "left_arm_angle": {
+            "current": 37.29,
+            "baseline_mean": 70.72,
+            "delta": -33.43,
+            "absolute_delta": 33.43,
+            "tolerance": 43.593,
+            "changed": false
+          },
+          "right_arm_angle": {
+            "current": 69.09,
+            "baseline_mean": 66.8667,
+            "delta": 2.2233,
+            "absolute_delta": 2.2233,
+            "tolerance": 129.7377,
+            "changed": false
+          },
+          "arm_angle_difference": {
+            "current": 31.8,
+            "baseline_mean": 26.1733,
+            "delta": 5.6267,
+            "absolute_delta": 5.6267,
+            "tolerance": 45.0759,
+            "changed": false
+          },
+          "left_arm_height": {
+            "current": -0.0452,
+            "baseline_mean": 0.0238,
+            "delta": -0.069,
+            "absolute_delta": 0.069,
+            "tolerance": 0.4611,
+            "changed": false
+          },
+          "right_arm_height": {
+            "current": 0.0711,
+            "baseline_mean": 0.0249,
+            "delta": 0.0462,
+            "absolute_delta": 0.0462,
+            "tolerance": 0.4656,
+            "changed": false
+          },
+          "wrist_height_difference": {
+            "current": 0.1426,
+            "baseline_mean": 0.0135,
+            "delta": 0.1291,
+            "absolute_delta": 0.1291,
+            "tolerance": 0.06,
+            "changed": true
+          }
+        }
+      },
+      "error": null
+    },
+    "face": {
+      "success": true,
+      "quality": 0.742,
+      "features": {
+        "mouth_tilt": 0.0028,
+        "nose_center_offset": -0.0171,
+        "mouth_eye_distance": 0.4568,
+        "head_roll_degrees": -0.01,
+        "yaw_proxy": 0.002,
+        "landmark_stability": 0.742,
+        "measurement_quality": 0.742
+      },
+      "change_from_baseline": {
+        "available": true,
+        "sample_count": 3,
+        "significant_change": false,
+        "features": {
+          "mouth_tilt": {
+            "current": 0.0028,
+            "baseline_mean": 0.0078,
+            "delta": -0.005,
+            "absolute_delta": 0.005,
+            "tolerance": 0.04,
+            "changed": false
+          },
+          "nose_center_offset": {
+            "current": -0.0171,
+            "baseline_mean": 0.0025,
+            "delta": -0.0196,
+            "absolute_delta": 0.0196,
+            "tolerance": 0.06,
+            "changed": false
+          },
+          "mouth_eye_distance": {
+            "current": 0.4568,
+            "baseline_mean": 0.4457,
+            "delta": 0.0111,
+            "absolute_delta": 0.0111,
+            "tolerance": 0.08,
+            "changed": false
+          }
+        }
+      },
+      "error": null
+    }
+  },
+  "follow_up_count": 0,
+  "turns": [
+    {
+      "role": "agent",
+      "message": "오늘 오후에는 주로 어떤 일을 하시면서 시간을 보내셨나요?"
+    }
+  ]
+}

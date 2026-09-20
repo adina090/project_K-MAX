@@ -1,0 +1,162 @@
+{
+  "conversation_id": "a5376e012ea244f7838510488e0e66f6",
+  "event_id": "demo-8-5070a0e6-6cf7-48b0-a458-6f498dc012f9",
+  "timestamp": "2026-09-20T10:46:45+09:00",
+  "agent_question": "팔 측정에서 평소와 다른 좌우 차이가 보였습니다. 측정만으로 질환을 판단할 수는 없습니다. 혹시 지금 갑자기 한쪽 팔에 힘이 빠지거나 들기 어려운 증상이 있으신가요?",
+  "transcript": "",
+  "voice_features": {},
+  "comparison_to_baseline": {},
+  "context_summary": "",
+  "next_action": "finished",
+  "urgent_alert": false,
+  "urgent_message": null,
+  "provider": "gemini",
+  "measurement_context": {
+    "pose": {
+      "success": true,
+      "quality": 0.978,
+      "features": {
+        "left_arm_angle": 37.87,
+        "right_arm_angle": 69.05,
+        "arm_angle_difference": 31.18,
+        "left_arm_height": -0.0429,
+        "right_arm_height": 0.062,
+        "wrist_height_difference": 0.1271,
+        "measurement_quality": 0.978
+      },
+      "change_from_baseline": {
+        "available": true,
+        "sample_count": 3,
+        "significant_change": true,
+        "features": {
+          "left_arm_angle": {
+            "current": 37.87,
+            "baseline_mean": 70.72,
+            "delta": -32.85,
+            "absolute_delta": 32.85,
+            "tolerance": 43.593,
+            "changed": false
+          },
+          "right_arm_angle": {
+            "current": 69.05,
+            "baseline_mean": 66.8667,
+            "delta": 2.1833,
+            "absolute_delta": 2.1833,
+            "tolerance": 129.7377,
+            "changed": false
+          },
+          "arm_angle_difference": {
+            "current": 31.18,
+            "baseline_mean": 26.1733,
+            "delta": 5.0067,
+            "absolute_delta": 5.0067,
+            "tolerance": 45.0759,
+            "changed": false
+          },
+          "left_arm_height": {
+            "current": -0.0429,
+            "baseline_mean": 0.0238,
+            "delta": -0.0667,
+            "absolute_delta": 0.0667,
+            "tolerance": 0.4611,
+            "changed": false
+          },
+          "right_arm_height": {
+            "current": 0.062,
+            "baseline_mean": 0.0249,
+            "delta": 0.0371,
+            "absolute_delta": 0.0371,
+            "tolerance": 0.4656,
+            "changed": false
+          },
+          "wrist_height_difference": {
+            "current": 0.1271,
+            "baseline_mean": 0.0135,
+            "delta": 0.1136,
+            "absolute_delta": 0.1136,
+            "tolerance": 0.06,
+            "changed": true
+          }
+        }
+      },
+      "error": null
+    },
+    "face": {
+      "success": true,
+      "quality": 0.913,
+      "features": {
+        "mouth_tilt": 0.0017,
+        "nose_center_offset": 0.0363,
+        "mouth_eye_distance": 0.4486,
+        "head_roll_degrees": 0.1,
+        "yaw_proxy": 0.1744,
+        "landmark_stability": 0.913,
+        "measurement_quality": 0.913
+      },
+      "change_from_baseline": {
+        "available": true,
+        "sample_count": 3,
+        "significant_change": false,
+        "features": {
+          "mouth_tilt": {
+            "current": 0.0017,
+            "baseline_mean": 0.0078,
+            "delta": -0.0061,
+            "absolute_delta": 0.0061,
+            "tolerance": 0.04,
+            "changed": false
+          },
+          "nose_center_offset": {
+            "current": 0.0363,
+            "baseline_mean": 0.0025,
+            "delta": 0.0338,
+            "absolute_delta": 0.0338,
+            "tolerance": 0.06,
+            "changed": false
+          },
+          "mouth_eye_distance": {
+            "current": 0.4486,
+            "baseline_mean": 0.4457,
+            "delta": 0.0029,
+            "absolute_delta": 0.0029,
+            "tolerance": 0.08,
+            "changed": false
+          }
+        }
+      },
+      "error": null
+    }
+  },
+  "screening_context": {
+    "pose_signal": true,
+    "face_signal": false,
+    "changed_pose_features": [
+      "wrist_height_difference"
+    ],
+    "changed_face_features": [],
+    "needs_confirmation": true
+  },
+  "routine_mode": "morning",
+  "context_issue_count": 0,
+  "voice_concern": false,
+  "follow_up_count": 0,
+  "turns": [
+    {
+      "role": "agent",
+      "message": "팔 측정에서 평소와 다른 좌우 차이가 보였습니다. 측정만으로 질환을 판단할 수는 없습니다. 혹시 지금 갑자기 한쪽 팔에 힘이 빠지거나 들기 어려운 증상이 있으신가요?"
+    },
+    {
+      "role": "user",
+      "message": "아니"
+    },
+    {
+      "role": "agent",
+      "message": "알겠습니다. 말씀해 주셔서 감사합니다. 다음 확인 시간에 다시 찾아뵙겠습니다."
+    }
+  ],
+  "context_analysis": {
+    "input_mode": "text",
+    "response_length": 2,
+    "action": "finish"
+  }
+}

@@ -1,0 +1,2703 @@
+{
+  "date": "2026-09-19",
+  "pose_measurements": [
+    {
+      "timestamp": "2026-09-19T15:16:03+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.834,
+        "features": {
+          "left_arm_angle": 165.55,
+          "right_arm_angle": 158.48,
+          "arm_angle_difference": 7.08,
+          "left_arm_height": -0.4799,
+          "right_arm_height": -0.5142,
+          "wrist_height_difference": 0.0421,
+          "measurement_quality": 0.834
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 0,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T15:19:53+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.876,
+        "features": {
+          "left_arm_angle": 114.83,
+          "right_arm_angle": 153.53,
+          "arm_angle_difference": 38.69,
+          "left_arm_height": 0.3336,
+          "right_arm_height": 0.3432,
+          "wrist_height_difference": 0.0242,
+          "measurement_quality": 0.876
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 0,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T15:19:58+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.94,
+        "features": {
+          "left_arm_angle": 81.94,
+          "right_arm_angle": 115.43,
+          "arm_angle_difference": 33.48,
+          "left_arm_height": 0.1833,
+          "right_arm_height": 0.1926,
+          "wrist_height_difference": 0.0208,
+          "measurement_quality": 0.94
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 0,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T15:20:07+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.966,
+        "features": {
+          "left_arm_angle": 29.5,
+          "right_arm_angle": 66.69,
+          "arm_angle_difference": 37.19,
+          "left_arm_height": -0.1131,
+          "right_arm_height": -0.1369,
+          "wrist_height_difference": 0.031,
+          "measurement_quality": 0.966
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 1,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T15:21:14+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.936,
+        "features": {
+          "left_arm_angle": 80.02,
+          "right_arm_angle": 74.78,
+          "arm_angle_difference": 5.24,
+          "left_arm_height": -0.1838,
+          "right_arm_height": -0.1816,
+          "wrist_height_difference": 0.0087,
+          "measurement_quality": 0.936
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 1,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T15:22:59+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.954,
+        "features": {
+          "left_arm_angle": 57.36,
+          "right_arm_angle": 76.11,
+          "arm_angle_difference": 18.76,
+          "left_arm_height": 0.0802,
+          "right_arm_height": 0.1676,
+          "wrist_height_difference": 0.124,
+          "measurement_quality": 0.954
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T15:39:02+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.933,
+        "features": {
+          "left_arm_angle": 131.97,
+          "right_arm_angle": 131.04,
+          "arm_angle_difference": 0.93,
+          "left_arm_height": 0.3374,
+          "right_arm_height": 0.3307,
+          "wrist_height_difference": 0.0072,
+          "measurement_quality": 0.933
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T15:46:24+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.935,
+        "features": {
+          "left_arm_angle": 102.21,
+          "right_arm_angle": 131.29,
+          "arm_angle_difference": 29.08,
+          "left_arm_height": 0.2588,
+          "right_arm_height": 0.2904,
+          "wrist_height_difference": 0.0504,
+          "measurement_quality": 0.935
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T15:48:55+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.954,
+        "features": {
+          "left_arm_angle": 116.18,
+          "right_arm_angle": 136.34,
+          "arm_angle_difference": 20.16,
+          "left_arm_height": 0.2625,
+          "right_arm_height": 0.262,
+          "wrist_height_difference": 0.0237,
+          "measurement_quality": 0.954
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T15:54:14+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.976,
+        "features": {
+          "left_arm_angle": 96.86,
+          "right_arm_angle": 53.23,
+          "arm_angle_difference": 43.63,
+          "left_arm_height": 0.2323,
+          "right_arm_height": 0.2234,
+          "wrist_height_difference": 0.0328,
+          "measurement_quality": 0.976
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:19:32+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.925,
+        "features": {
+          "left_arm_angle": 98.99,
+          "right_arm_angle": 111.94,
+          "arm_angle_difference": 12.95,
+          "left_arm_height": 0.1538,
+          "right_arm_height": 0.2385,
+          "wrist_height_difference": 0.0776,
+          "measurement_quality": 0.925
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:23:28+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.896,
+        "features": {
+          "left_arm_angle": 99.11,
+          "right_arm_angle": 50.15,
+          "arm_angle_difference": 48.96,
+          "left_arm_height": 0.193,
+          "right_arm_height": 0.2093,
+          "wrist_height_difference": 0.0361,
+          "measurement_quality": 0.896
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:23:48+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.935,
+        "features": {
+          "left_arm_angle": 61.99,
+          "right_arm_angle": 51.91,
+          "arm_angle_difference": 10.08,
+          "left_arm_height": 0.0963,
+          "right_arm_height": 0.1885,
+          "wrist_height_difference": 0.1655,
+          "measurement_quality": 0.935
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:30:26+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.951,
+        "features": {
+          "left_arm_angle": 124.27,
+          "right_arm_angle": 78.2,
+          "arm_angle_difference": 46.07,
+          "left_arm_height": -0.2324,
+          "right_arm_height": -0.2595,
+          "wrist_height_difference": 0.0206,
+          "measurement_quality": 0.951
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:42:19+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.928,
+        "features": {
+          "left_arm_angle": 99.98,
+          "right_arm_angle": 100.34,
+          "arm_angle_difference": 0.36,
+          "left_arm_height": 0.2369,
+          "right_arm_height": 0.2545,
+          "wrist_height_difference": 0.0188,
+          "measurement_quality": 0.928
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:45:53+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.981,
+        "features": {
+          "left_arm_angle": 106.08,
+          "right_arm_angle": 129.3,
+          "arm_angle_difference": 23.22,
+          "left_arm_height": 0.2437,
+          "right_arm_height": 0.2663,
+          "wrist_height_difference": 0.0593,
+          "measurement_quality": 0.981
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:50:33+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.952,
+        "features": {
+          "left_arm_angle": 50.2,
+          "right_arm_angle": 10.39,
+          "arm_angle_difference": 39.8,
+          "left_arm_height": 0.0719,
+          "right_arm_height": 0.0636,
+          "wrist_height_difference": 0.0111,
+          "measurement_quality": 0.952
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:50:47+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.969,
+        "features": {
+          "left_arm_angle": 140.43,
+          "right_arm_angle": 148.5,
+          "arm_angle_difference": 8.08,
+          "left_arm_height": 0.3055,
+          "right_arm_height": 0.3125,
+          "wrist_height_difference": 0.0317,
+          "measurement_quality": 0.969
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 140.43,
+              "baseline_mean": 70.72,
+              "delta": 69.71,
+              "absolute_delta": 69.71,
+              "tolerance": 43.593,
+              "changed": true
+            },
+            "right_arm_angle": {
+              "current": 148.5,
+              "baseline_mean": 66.8667,
+              "delta": 81.6333,
+              "absolute_delta": 81.6333,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 8.08,
+              "baseline_mean": 26.1733,
+              "delta": -18.0933,
+              "absolute_delta": 18.0933,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.3055,
+              "baseline_mean": 0.0238,
+              "delta": 0.2817,
+              "absolute_delta": 0.2817,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.3125,
+              "baseline_mean": 0.0249,
+              "delta": 0.2876,
+              "absolute_delta": 0.2876,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0317,
+              "baseline_mean": 0.0135,
+              "delta": 0.0182,
+              "absolute_delta": 0.0182,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:50:57+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.971,
+        "features": {
+          "left_arm_angle": 125.09,
+          "right_arm_angle": 136.84,
+          "arm_angle_difference": 11.75,
+          "left_arm_height": 0.2864,
+          "right_arm_height": 0.3013,
+          "wrist_height_difference": 0.0457,
+          "measurement_quality": 0.971
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 125.09,
+              "baseline_mean": 70.72,
+              "delta": 54.37,
+              "absolute_delta": 54.37,
+              "tolerance": 43.593,
+              "changed": true
+            },
+            "right_arm_angle": {
+              "current": 136.84,
+              "baseline_mean": 66.8667,
+              "delta": 69.9733,
+              "absolute_delta": 69.9733,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 11.75,
+              "baseline_mean": 26.1733,
+              "delta": -14.4233,
+              "absolute_delta": 14.4233,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.2864,
+              "baseline_mean": 0.0238,
+              "delta": 0.2626,
+              "absolute_delta": 0.2626,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.3013,
+              "baseline_mean": 0.0249,
+              "delta": 0.2764,
+              "absolute_delta": 0.2764,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0457,
+              "baseline_mean": 0.0135,
+              "delta": 0.0322,
+              "absolute_delta": 0.0322,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:51:06+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.971,
+        "features": {
+          "left_arm_angle": 117.85,
+          "right_arm_angle": 142.34,
+          "arm_angle_difference": 24.49,
+          "left_arm_height": 0.2601,
+          "right_arm_height": 0.3229,
+          "wrist_height_difference": 0.1056,
+          "measurement_quality": 0.971
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 117.85,
+              "baseline_mean": 70.72,
+              "delta": 47.13,
+              "absolute_delta": 47.13,
+              "tolerance": 43.593,
+              "changed": true
+            },
+            "right_arm_angle": {
+              "current": 142.34,
+              "baseline_mean": 66.8667,
+              "delta": 75.4733,
+              "absolute_delta": 75.4733,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 24.49,
+              "baseline_mean": 26.1733,
+              "delta": -1.6833,
+              "absolute_delta": 1.6833,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.2601,
+              "baseline_mean": 0.0238,
+              "delta": 0.2363,
+              "absolute_delta": 0.2363,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.3229,
+              "baseline_mean": 0.0249,
+              "delta": 0.298,
+              "absolute_delta": 0.298,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.1056,
+              "baseline_mean": 0.0135,
+              "delta": 0.0921,
+              "absolute_delta": 0.0921,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:54:04+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.879,
+        "features": {
+          "left_arm_angle": 139.23,
+          "right_arm_angle": 141.61,
+          "arm_angle_difference": 2.38,
+          "left_arm_height": 0.3351,
+          "right_arm_height": 0.3322,
+          "wrist_height_difference": 0.0,
+          "measurement_quality": 0.879
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 139.23,
+              "baseline_mean": 70.72,
+              "delta": 68.51,
+              "absolute_delta": 68.51,
+              "tolerance": 43.593,
+              "changed": true
+            },
+            "right_arm_angle": {
+              "current": 141.61,
+              "baseline_mean": 66.8667,
+              "delta": 74.7433,
+              "absolute_delta": 74.7433,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 2.38,
+              "baseline_mean": 26.1733,
+              "delta": -23.7933,
+              "absolute_delta": 23.7933,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.3351,
+              "baseline_mean": 0.0238,
+              "delta": 0.3113,
+              "absolute_delta": 0.3113,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.3322,
+              "baseline_mean": 0.0249,
+              "delta": 0.3073,
+              "absolute_delta": 0.3073,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0,
+              "baseline_mean": 0.0135,
+              "delta": -0.0135,
+              "absolute_delta": 0.0135,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T16:59:39+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.992,
+        "features": {
+          "left_arm_angle": 111.1,
+          "right_arm_angle": 142.6,
+          "arm_angle_difference": 31.5,
+          "left_arm_height": 0.298,
+          "right_arm_height": 0.3205,
+          "wrist_height_difference": 0.0409,
+          "measurement_quality": 0.992
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "left_arm_angle": {
+              "current": 111.1,
+              "baseline_mean": 70.72,
+              "delta": 40.38,
+              "absolute_delta": 40.38,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 142.6,
+              "baseline_mean": 66.8667,
+              "delta": 75.7333,
+              "absolute_delta": 75.7333,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 31.5,
+              "baseline_mean": 26.1733,
+              "delta": 5.3267,
+              "absolute_delta": 5.3267,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.298,
+              "baseline_mean": 0.0238,
+              "delta": 0.2742,
+              "absolute_delta": 0.2742,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.3205,
+              "baseline_mean": 0.0249,
+              "delta": 0.2956,
+              "absolute_delta": 0.2956,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0409,
+              "baseline_mean": 0.0135,
+              "delta": 0.0274,
+              "absolute_delta": 0.0274,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T17:09:53+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.792,
+        "features": {
+          "left_arm_angle": 74.5,
+          "right_arm_angle": 2.79,
+          "arm_angle_difference": 71.71,
+          "left_arm_height": 0.1511,
+          "right_arm_height": 0.0603,
+          "wrist_height_difference": 0.0703,
+          "measurement_quality": 0.792
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 74.5,
+              "baseline_mean": 70.72,
+              "delta": 3.78,
+              "absolute_delta": 3.78,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 2.79,
+              "baseline_mean": 66.8667,
+              "delta": -64.0767,
+              "absolute_delta": 64.0767,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 71.71,
+              "baseline_mean": 26.1733,
+              "delta": 45.5367,
+              "absolute_delta": 45.5367,
+              "tolerance": 45.0759,
+              "changed": true
+            },
+            "left_arm_height": {
+              "current": 0.1511,
+              "baseline_mean": 0.0238,
+              "delta": 0.1273,
+              "absolute_delta": 0.1273,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0603,
+              "baseline_mean": 0.0249,
+              "delta": 0.0354,
+              "absolute_delta": 0.0354,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0703,
+              "baseline_mean": 0.0135,
+              "delta": 0.0568,
+              "absolute_delta": 0.0568,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T17:12:21+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.883,
+        "features": {
+          "left_arm_angle": 94.41,
+          "right_arm_angle": 142.75,
+          "arm_angle_difference": 48.33,
+          "left_arm_height": 0.2778,
+          "right_arm_height": 0.3433,
+          "wrist_height_difference": 0.1053,
+          "measurement_quality": 0.883
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 94.41,
+              "baseline_mean": 70.72,
+              "delta": 23.69,
+              "absolute_delta": 23.69,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 142.75,
+              "baseline_mean": 66.8667,
+              "delta": 75.8833,
+              "absolute_delta": 75.8833,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 48.33,
+              "baseline_mean": 26.1733,
+              "delta": 22.1567,
+              "absolute_delta": 22.1567,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.2778,
+              "baseline_mean": 0.0238,
+              "delta": 0.254,
+              "absolute_delta": 0.254,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.3433,
+              "baseline_mean": 0.0249,
+              "delta": 0.3184,
+              "absolute_delta": 0.3184,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.1053,
+              "baseline_mean": 0.0135,
+              "delta": 0.0918,
+              "absolute_delta": 0.0918,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T17:12:38+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.745,
+        "features": {
+          "left_arm_angle": 77.61,
+          "right_arm_angle": 4.29,
+          "arm_angle_difference": 73.32,
+          "left_arm_height": 0.0264,
+          "right_arm_height": 0.0508,
+          "wrist_height_difference": 0.0565,
+          "measurement_quality": 0.745
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 77.61,
+              "baseline_mean": 70.72,
+              "delta": 6.89,
+              "absolute_delta": 6.89,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 4.29,
+              "baseline_mean": 66.8667,
+              "delta": -62.5767,
+              "absolute_delta": 62.5767,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 73.32,
+              "baseline_mean": 26.1733,
+              "delta": 47.1467,
+              "absolute_delta": 47.1467,
+              "tolerance": 45.0759,
+              "changed": true
+            },
+            "left_arm_height": {
+              "current": 0.0264,
+              "baseline_mean": 0.0238,
+              "delta": 0.0026,
+              "absolute_delta": 0.0026,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0508,
+              "baseline_mean": 0.0249,
+              "delta": 0.0259,
+              "absolute_delta": 0.0259,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0565,
+              "baseline_mean": 0.0135,
+              "delta": 0.043,
+              "absolute_delta": 0.043,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T20:17:27+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.939,
+        "features": {
+          "left_arm_angle": 23.21,
+          "right_arm_angle": 43.24,
+          "arm_angle_difference": 20.03,
+          "left_arm_height": 0.1334,
+          "right_arm_height": 0.1451,
+          "wrist_height_difference": 0.0716,
+          "measurement_quality": 0.939
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 23.21,
+              "baseline_mean": 70.72,
+              "delta": -47.51,
+              "absolute_delta": 47.51,
+              "tolerance": 43.593,
+              "changed": true
+            },
+            "right_arm_angle": {
+              "current": 43.24,
+              "baseline_mean": 66.8667,
+              "delta": -23.6267,
+              "absolute_delta": 23.6267,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 20.03,
+              "baseline_mean": 26.1733,
+              "delta": -6.1433,
+              "absolute_delta": 6.1433,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.1334,
+              "baseline_mean": 0.0238,
+              "delta": 0.1096,
+              "absolute_delta": 0.1096,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.1451,
+              "baseline_mean": 0.0249,
+              "delta": 0.1202,
+              "absolute_delta": 0.1202,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0716,
+              "baseline_mean": 0.0135,
+              "delta": 0.0581,
+              "absolute_delta": 0.0581,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T20:17:45+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.785,
+        "features": {
+          "left_arm_angle": 42.83,
+          "right_arm_angle": 4.42,
+          "arm_angle_difference": 38.42,
+          "left_arm_height": 0.0161,
+          "right_arm_height": -0.0099,
+          "wrist_height_difference": 0.0028,
+          "measurement_quality": 0.785
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "left_arm_angle": {
+              "current": 42.83,
+              "baseline_mean": 70.72,
+              "delta": -27.89,
+              "absolute_delta": 27.89,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 4.42,
+              "baseline_mean": 66.8667,
+              "delta": -62.4467,
+              "absolute_delta": 62.4467,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 38.42,
+              "baseline_mean": 26.1733,
+              "delta": 12.2467,
+              "absolute_delta": 12.2467,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.0161,
+              "baseline_mean": 0.0238,
+              "delta": -0.0077,
+              "absolute_delta": 0.0077,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": -0.0099,
+              "baseline_mean": 0.0249,
+              "delta": -0.0348,
+              "absolute_delta": 0.0348,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0028,
+              "baseline_mean": 0.0135,
+              "delta": -0.0107,
+              "absolute_delta": 0.0107,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T20:34:09+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.994,
+        "features": {
+          "left_arm_angle": 47.14,
+          "right_arm_angle": 51.76,
+          "arm_angle_difference": 4.62,
+          "left_arm_height": 0.0391,
+          "right_arm_height": 0.0449,
+          "wrist_height_difference": 0.01,
+          "measurement_quality": 0.994
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "left_arm_angle": {
+              "current": 47.14,
+              "baseline_mean": 70.72,
+              "delta": -23.58,
+              "absolute_delta": 23.58,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 51.76,
+              "baseline_mean": 66.8667,
+              "delta": -15.1067,
+              "absolute_delta": 15.1067,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 4.62,
+              "baseline_mean": 26.1733,
+              "delta": -21.5533,
+              "absolute_delta": 21.5533,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.0391,
+              "baseline_mean": 0.0238,
+              "delta": 0.0153,
+              "absolute_delta": 0.0153,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0449,
+              "baseline_mean": 0.0249,
+              "delta": 0.02,
+              "absolute_delta": 0.02,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.01,
+              "baseline_mean": 0.0135,
+              "delta": -0.0035,
+              "absolute_delta": 0.0035,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T20:47:26+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.995,
+        "features": {
+          "left_arm_angle": 37.02,
+          "right_arm_angle": 70.27,
+          "arm_angle_difference": 33.25,
+          "left_arm_height": -0.0637,
+          "right_arm_height": 0.0855,
+          "wrist_height_difference": 0.1786,
+          "measurement_quality": 0.995
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 37.02,
+              "baseline_mean": 70.72,
+              "delta": -33.7,
+              "absolute_delta": 33.7,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 70.27,
+              "baseline_mean": 66.8667,
+              "delta": 3.4033,
+              "absolute_delta": 3.4033,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 33.25,
+              "baseline_mean": 26.1733,
+              "delta": 7.0767,
+              "absolute_delta": 7.0767,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": -0.0637,
+              "baseline_mean": 0.0238,
+              "delta": -0.0875,
+              "absolute_delta": 0.0875,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0855,
+              "baseline_mean": 0.0249,
+              "delta": 0.0606,
+              "absolute_delta": 0.0606,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.1786,
+              "baseline_mean": 0.0135,
+              "delta": 0.1651,
+              "absolute_delta": 0.1651,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T20:51:51+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.999,
+        "features": {
+          "left_arm_angle": 38.14,
+          "right_arm_angle": 67.68,
+          "arm_angle_difference": 29.54,
+          "left_arm_height": -0.073,
+          "right_arm_height": 0.0999,
+          "wrist_height_difference": 0.2116,
+          "measurement_quality": 0.999
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 38.14,
+              "baseline_mean": 70.72,
+              "delta": -32.58,
+              "absolute_delta": 32.58,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 67.68,
+              "baseline_mean": 66.8667,
+              "delta": 0.8133,
+              "absolute_delta": 0.8133,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 29.54,
+              "baseline_mean": 26.1733,
+              "delta": 3.3667,
+              "absolute_delta": 3.3667,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": -0.073,
+              "baseline_mean": 0.0238,
+              "delta": -0.0968,
+              "absolute_delta": 0.0968,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0999,
+              "baseline_mean": 0.0249,
+              "delta": 0.075,
+              "absolute_delta": 0.075,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.2116,
+              "baseline_mean": 0.0135,
+              "delta": 0.1981,
+              "absolute_delta": 0.1981,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T20:54:32+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.988,
+        "features": {
+          "left_arm_angle": 37.78,
+          "right_arm_angle": 63.58,
+          "arm_angle_difference": 25.8,
+          "left_arm_height": -0.0702,
+          "right_arm_height": 0.1022,
+          "wrist_height_difference": 0.2302,
+          "measurement_quality": 0.988
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 37.78,
+              "baseline_mean": 70.72,
+              "delta": -32.94,
+              "absolute_delta": 32.94,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 63.58,
+              "baseline_mean": 66.8667,
+              "delta": -3.2867,
+              "absolute_delta": 3.2867,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 25.8,
+              "baseline_mean": 26.1733,
+              "delta": -0.3733,
+              "absolute_delta": 0.3733,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": -0.0702,
+              "baseline_mean": 0.0238,
+              "delta": -0.094,
+              "absolute_delta": 0.094,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.1022,
+              "baseline_mean": 0.0249,
+              "delta": 0.0773,
+              "absolute_delta": 0.0773,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.2302,
+              "baseline_mean": 0.0135,
+              "delta": 0.2167,
+              "absolute_delta": 0.2167,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:05:22+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.793,
+        "features": {
+          "left_arm_angle": 66.06,
+          "right_arm_angle": 99.11,
+          "arm_angle_difference": 33.05,
+          "left_arm_height": -0.0434,
+          "right_arm_height": 0.0776,
+          "wrist_height_difference": 0.1581,
+          "measurement_quality": 0.793
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 66.06,
+              "baseline_mean": 70.72,
+              "delta": -4.66,
+              "absolute_delta": 4.66,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 99.11,
+              "baseline_mean": 66.8667,
+              "delta": 32.2433,
+              "absolute_delta": 32.2433,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 33.05,
+              "baseline_mean": 26.1733,
+              "delta": 6.8767,
+              "absolute_delta": 6.8767,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": -0.0434,
+              "baseline_mean": 0.0238,
+              "delta": -0.0672,
+              "absolute_delta": 0.0672,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0776,
+              "baseline_mean": 0.0249,
+              "delta": 0.0527,
+              "absolute_delta": 0.0527,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.1581,
+              "baseline_mean": 0.0135,
+              "delta": 0.1446,
+              "absolute_delta": 0.1446,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:10:00+09:00",
+      "result": {
+        "success": true,
+        "quality": 1.0,
+        "features": {
+          "left_arm_angle": 32.86,
+          "right_arm_angle": 65.07,
+          "arm_angle_difference": 32.21,
+          "left_arm_height": -0.0998,
+          "right_arm_height": 0.1269,
+          "wrist_height_difference": 0.2859,
+          "measurement_quality": 1.0
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 32.86,
+              "baseline_mean": 70.72,
+              "delta": -37.86,
+              "absolute_delta": 37.86,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 65.07,
+              "baseline_mean": 66.8667,
+              "delta": -1.7967,
+              "absolute_delta": 1.7967,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 32.21,
+              "baseline_mean": 26.1733,
+              "delta": 6.0367,
+              "absolute_delta": 6.0367,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": -0.0998,
+              "baseline_mean": 0.0238,
+              "delta": -0.1236,
+              "absolute_delta": 0.1236,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.1269,
+              "baseline_mean": 0.0249,
+              "delta": 0.102,
+              "absolute_delta": 0.102,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.2859,
+              "baseline_mean": 0.0135,
+              "delta": 0.2724,
+              "absolute_delta": 0.2724,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:11:14+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.999,
+        "features": {
+          "left_arm_angle": 47.63,
+          "right_arm_angle": 50.24,
+          "arm_angle_difference": 2.61,
+          "left_arm_height": 0.0679,
+          "right_arm_height": 0.05,
+          "wrist_height_difference": 0.0311,
+          "measurement_quality": 0.999
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "left_arm_angle": {
+              "current": 47.63,
+              "baseline_mean": 70.72,
+              "delta": -23.09,
+              "absolute_delta": 23.09,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 50.24,
+              "baseline_mean": 66.8667,
+              "delta": -16.6267,
+              "absolute_delta": 16.6267,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 2.61,
+              "baseline_mean": 26.1733,
+              "delta": -23.5633,
+              "absolute_delta": 23.5633,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.0679,
+              "baseline_mean": 0.0238,
+              "delta": 0.0441,
+              "absolute_delta": 0.0441,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.05,
+              "baseline_mean": 0.0249,
+              "delta": 0.0251,
+              "absolute_delta": 0.0251,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0311,
+              "baseline_mean": 0.0135,
+              "delta": 0.0176,
+              "absolute_delta": 0.0176,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:22:08+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.997,
+        "features": {
+          "left_arm_angle": 55.16,
+          "right_arm_angle": 48.35,
+          "arm_angle_difference": 6.81,
+          "left_arm_height": 0.0394,
+          "right_arm_height": 0.0449,
+          "wrist_height_difference": 0.0307,
+          "measurement_quality": 0.997
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "left_arm_angle": {
+              "current": 55.16,
+              "baseline_mean": 70.72,
+              "delta": -15.56,
+              "absolute_delta": 15.56,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 48.35,
+              "baseline_mean": 66.8667,
+              "delta": -18.5167,
+              "absolute_delta": 18.5167,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 6.81,
+              "baseline_mean": 26.1733,
+              "delta": -19.3633,
+              "absolute_delta": 19.3633,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.0394,
+              "baseline_mean": 0.0238,
+              "delta": 0.0156,
+              "absolute_delta": 0.0156,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0449,
+              "baseline_mean": 0.0249,
+              "delta": 0.02,
+              "absolute_delta": 0.02,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0307,
+              "baseline_mean": 0.0135,
+              "delta": 0.0172,
+              "absolute_delta": 0.0172,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:25:52+09:00",
+      "result": {
+        "success": true,
+        "quality": 1.0,
+        "features": {
+          "left_arm_angle": 44.14,
+          "right_arm_angle": 51.68,
+          "arm_angle_difference": 7.54,
+          "left_arm_height": 0.0543,
+          "right_arm_height": 0.0396,
+          "wrist_height_difference": 0.0293,
+          "measurement_quality": 1.0
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "left_arm_angle": {
+              "current": 44.14,
+              "baseline_mean": 70.72,
+              "delta": -26.58,
+              "absolute_delta": 26.58,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 51.68,
+              "baseline_mean": 66.8667,
+              "delta": -15.1867,
+              "absolute_delta": 15.1867,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 7.54,
+              "baseline_mean": 26.1733,
+              "delta": -18.6333,
+              "absolute_delta": 18.6333,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.0543,
+              "baseline_mean": 0.0238,
+              "delta": 0.0305,
+              "absolute_delta": 0.0305,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0396,
+              "baseline_mean": 0.0249,
+              "delta": 0.0147,
+              "absolute_delta": 0.0147,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0293,
+              "baseline_mean": 0.0135,
+              "delta": 0.0158,
+              "absolute_delta": 0.0158,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:26:51+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.977,
+        "features": {
+          "left_arm_angle": 33.08,
+          "right_arm_angle": 68.38,
+          "arm_angle_difference": 35.3,
+          "left_arm_height": -0.0499,
+          "right_arm_height": 0.0712,
+          "wrist_height_difference": 0.1485,
+          "measurement_quality": 0.977
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 33.08,
+              "baseline_mean": 70.72,
+              "delta": -37.64,
+              "absolute_delta": 37.64,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 68.38,
+              "baseline_mean": 66.8667,
+              "delta": 1.5133,
+              "absolute_delta": 1.5133,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 35.3,
+              "baseline_mean": 26.1733,
+              "delta": 9.1267,
+              "absolute_delta": 9.1267,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": -0.0499,
+              "baseline_mean": 0.0238,
+              "delta": -0.0737,
+              "absolute_delta": 0.0737,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0712,
+              "baseline_mean": 0.0249,
+              "delta": 0.0463,
+              "absolute_delta": 0.0463,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.1485,
+              "baseline_mean": 0.0135,
+              "delta": 0.135,
+              "absolute_delta": 0.135,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:46:13+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.986,
+        "features": {
+          "left_arm_angle": 37.29,
+          "right_arm_angle": 69.09,
+          "arm_angle_difference": 31.8,
+          "left_arm_height": -0.0452,
+          "right_arm_height": 0.0711,
+          "wrist_height_difference": 0.1426,
+          "measurement_quality": 0.986
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 37.29,
+              "baseline_mean": 70.72,
+              "delta": -33.43,
+              "absolute_delta": 33.43,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 69.09,
+              "baseline_mean": 66.8667,
+              "delta": 2.2233,
+              "absolute_delta": 2.2233,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 31.8,
+              "baseline_mean": 26.1733,
+              "delta": 5.6267,
+              "absolute_delta": 5.6267,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": -0.0452,
+              "baseline_mean": 0.0238,
+              "delta": -0.069,
+              "absolute_delta": 0.069,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0711,
+              "baseline_mean": 0.0249,
+              "delta": 0.0462,
+              "absolute_delta": 0.0462,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.1426,
+              "baseline_mean": 0.0135,
+              "delta": 0.1291,
+              "absolute_delta": 0.1291,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:49:06+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.984,
+        "features": {
+          "left_arm_angle": 37.29,
+          "right_arm_angle": 71.55,
+          "arm_angle_difference": 34.26,
+          "left_arm_height": -0.0389,
+          "right_arm_height": 0.0664,
+          "wrist_height_difference": 0.1234,
+          "measurement_quality": 0.984
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 37.29,
+              "baseline_mean": 70.72,
+              "delta": -33.43,
+              "absolute_delta": 33.43,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 71.55,
+              "baseline_mean": 66.8667,
+              "delta": 4.6833,
+              "absolute_delta": 4.6833,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 34.26,
+              "baseline_mean": 26.1733,
+              "delta": 8.0867,
+              "absolute_delta": 8.0867,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": -0.0389,
+              "baseline_mean": 0.0238,
+              "delta": -0.0627,
+              "absolute_delta": 0.0627,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0664,
+              "baseline_mean": 0.0249,
+              "delta": 0.0415,
+              "absolute_delta": 0.0415,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.1234,
+              "baseline_mean": 0.0135,
+              "delta": 0.1099,
+              "absolute_delta": 0.1099,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T22:03:28+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.787,
+        "features": {
+          "left_arm_angle": 162.39,
+          "right_arm_angle": 54.48,
+          "arm_angle_difference": 107.91,
+          "left_arm_height": -0.0289,
+          "right_arm_height": -0.0156,
+          "wrist_height_difference": 0.0185,
+          "measurement_quality": 0.787
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 162.39,
+              "baseline_mean": 70.72,
+              "delta": 91.67,
+              "absolute_delta": 91.67,
+              "tolerance": 43.593,
+              "changed": true
+            },
+            "right_arm_angle": {
+              "current": 54.48,
+              "baseline_mean": 66.8667,
+              "delta": -12.3867,
+              "absolute_delta": 12.3867,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 107.91,
+              "baseline_mean": 26.1733,
+              "delta": 81.7367,
+              "absolute_delta": 81.7367,
+              "tolerance": 45.0759,
+              "changed": true
+            },
+            "left_arm_height": {
+              "current": -0.0289,
+              "baseline_mean": 0.0238,
+              "delta": -0.0527,
+              "absolute_delta": 0.0527,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": -0.0156,
+              "baseline_mean": 0.0249,
+              "delta": -0.0405,
+              "absolute_delta": 0.0405,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0185,
+              "baseline_mean": 0.0135,
+              "delta": 0.005,
+              "absolute_delta": 0.005,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T22:15:17+09:00",
+      "result": {
+        "success": true,
+        "quality": 1.0,
+        "features": {
+          "left_arm_angle": 47.48,
+          "right_arm_angle": 53.11,
+          "arm_angle_difference": 5.64,
+          "left_arm_height": 0.0571,
+          "right_arm_height": 0.0771,
+          "wrist_height_difference": 0.0409,
+          "measurement_quality": 1.0
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "left_arm_angle": {
+              "current": 47.48,
+              "baseline_mean": 70.72,
+              "delta": -23.24,
+              "absolute_delta": 23.24,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 53.11,
+              "baseline_mean": 66.8667,
+              "delta": -13.7567,
+              "absolute_delta": 13.7567,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 5.64,
+              "baseline_mean": 26.1733,
+              "delta": -20.5333,
+              "absolute_delta": 20.5333,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": 0.0571,
+              "baseline_mean": 0.0238,
+              "delta": 0.0333,
+              "absolute_delta": 0.0333,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0771,
+              "baseline_mean": 0.0249,
+              "delta": 0.0522,
+              "absolute_delta": 0.0522,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.0409,
+              "baseline_mean": 0.0135,
+              "delta": 0.0274,
+              "absolute_delta": 0.0274,
+              "tolerance": 0.06,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T22:15:38+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.975,
+        "features": {
+          "left_arm_angle": 36.48,
+          "right_arm_angle": 67.52,
+          "arm_angle_difference": 31.05,
+          "left_arm_height": -0.065,
+          "right_arm_height": 0.0936,
+          "wrist_height_difference": 0.207,
+          "measurement_quality": 0.975
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 36.48,
+              "baseline_mean": 70.72,
+              "delta": -34.24,
+              "absolute_delta": 34.24,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 67.52,
+              "baseline_mean": 66.8667,
+              "delta": 0.6533,
+              "absolute_delta": 0.6533,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 31.05,
+              "baseline_mean": 26.1733,
+              "delta": 4.8767,
+              "absolute_delta": 4.8767,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": -0.065,
+              "baseline_mean": 0.0238,
+              "delta": -0.0888,
+              "absolute_delta": 0.0888,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0936,
+              "baseline_mean": 0.0249,
+              "delta": 0.0687,
+              "absolute_delta": 0.0687,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.207,
+              "baseline_mean": 0.0135,
+              "delta": 0.1935,
+              "absolute_delta": 0.1935,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T22:17:34+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.98,
+        "features": {
+          "left_arm_angle": 38.57,
+          "right_arm_angle": 70.2,
+          "arm_angle_difference": 31.63,
+          "left_arm_height": -0.0364,
+          "right_arm_height": 0.0648,
+          "wrist_height_difference": 0.1205,
+          "measurement_quality": 0.98
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "left_arm_angle": {
+              "current": 38.57,
+              "baseline_mean": 70.72,
+              "delta": -32.15,
+              "absolute_delta": 32.15,
+              "tolerance": 43.593,
+              "changed": false
+            },
+            "right_arm_angle": {
+              "current": 70.2,
+              "baseline_mean": 66.8667,
+              "delta": 3.3333,
+              "absolute_delta": 3.3333,
+              "tolerance": 129.7377,
+              "changed": false
+            },
+            "arm_angle_difference": {
+              "current": 31.63,
+              "baseline_mean": 26.1733,
+              "delta": 5.4567,
+              "absolute_delta": 5.4567,
+              "tolerance": 45.0759,
+              "changed": false
+            },
+            "left_arm_height": {
+              "current": -0.0364,
+              "baseline_mean": 0.0238,
+              "delta": -0.0602,
+              "absolute_delta": 0.0602,
+              "tolerance": 0.4611,
+              "changed": false
+            },
+            "right_arm_height": {
+              "current": 0.0648,
+              "baseline_mean": 0.0249,
+              "delta": 0.0399,
+              "absolute_delta": 0.0399,
+              "tolerance": 0.4656,
+              "changed": false
+            },
+            "wrist_height_difference": {
+              "current": 0.1205,
+              "baseline_mean": 0.0135,
+              "delta": 0.107,
+              "absolute_delta": 0.107,
+              "tolerance": 0.06,
+              "changed": true
+            }
+          }
+        },
+        "error": null
+      }
+    }
+  ],
+  "face_measurements": [
+    {
+      "timestamp": "2026-09-19T20:47:57+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.769,
+        "features": {
+          "mouth_tilt": 0.0099,
+          "nose_center_offset": -0.0108,
+          "mouth_eye_distance": 0.4349,
+          "head_roll_degrees": 0.46,
+          "yaw_proxy": 0.0041,
+          "landmark_stability": 0.769,
+          "measurement_quality": 0.769
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 0,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T20:52:35+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.874,
+        "features": {
+          "mouth_tilt": 0.0069,
+          "nose_center_offset": 0.001,
+          "mouth_eye_distance": 0.4467,
+          "head_roll_degrees": -2.97,
+          "yaw_proxy": 0.0284,
+          "landmark_stability": 0.874,
+          "measurement_quality": 0.874
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 1,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T20:55:04+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.769,
+        "features": {
+          "mouth_tilt": 0.0065,
+          "nose_center_offset": 0.0173,
+          "mouth_eye_distance": 0.4556,
+          "head_roll_degrees": -3.61,
+          "yaw_proxy": 0.0076,
+          "landmark_stability": 0.769,
+          "measurement_quality": 0.769
+        },
+        "change_from_baseline": {
+          "available": false,
+          "sample_count": 2,
+          "required_samples": 3
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:05:54+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.816,
+        "features": {
+          "mouth_tilt": 0.0134,
+          "nose_center_offset": -0.0656,
+          "mouth_eye_distance": 0.4555,
+          "head_roll_degrees": 0.15,
+          "yaw_proxy": 0.1515,
+          "landmark_stability": 0.816,
+          "measurement_quality": 0.816
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": true,
+          "features": {
+            "mouth_tilt": {
+              "current": 0.0134,
+              "baseline_mean": 0.0078,
+              "delta": 0.0056,
+              "absolute_delta": 0.0056,
+              "tolerance": 0.04,
+              "changed": false
+            },
+            "nose_center_offset": {
+              "current": -0.0656,
+              "baseline_mean": 0.0025,
+              "delta": -0.0681,
+              "absolute_delta": 0.0681,
+              "tolerance": 0.06,
+              "changed": true
+            },
+            "mouth_eye_distance": {
+              "current": 0.4555,
+              "baseline_mean": 0.4457,
+              "delta": 0.0098,
+              "absolute_delta": 0.0098,
+              "tolerance": 0.08,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:11:41+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.838,
+        "features": {
+          "mouth_tilt": 0.0114,
+          "nose_center_offset": -0.0241,
+          "mouth_eye_distance": 0.4681,
+          "head_roll_degrees": -1.11,
+          "yaw_proxy": 0.0407,
+          "landmark_stability": 0.838,
+          "measurement_quality": 0.838
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "mouth_tilt": {
+              "current": 0.0114,
+              "baseline_mean": 0.0078,
+              "delta": 0.0036,
+              "absolute_delta": 0.0036,
+              "tolerance": 0.04,
+              "changed": false
+            },
+            "nose_center_offset": {
+              "current": -0.0241,
+              "baseline_mean": 0.0025,
+              "delta": -0.0266,
+              "absolute_delta": 0.0266,
+              "tolerance": 0.06,
+              "changed": false
+            },
+            "mouth_eye_distance": {
+              "current": 0.4681,
+              "baseline_mean": 0.4457,
+              "delta": 0.0224,
+              "absolute_delta": 0.0224,
+              "tolerance": 0.08,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:27:04+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.753,
+        "features": {
+          "mouth_tilt": 0.0024,
+          "nose_center_offset": -0.0379,
+          "mouth_eye_distance": 0.4612,
+          "head_roll_degrees": 2.27,
+          "yaw_proxy": 0.0243,
+          "landmark_stability": 0.753,
+          "measurement_quality": 0.753
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "mouth_tilt": {
+              "current": 0.0024,
+              "baseline_mean": 0.0078,
+              "delta": -0.0054,
+              "absolute_delta": 0.0054,
+              "tolerance": 0.04,
+              "changed": false
+            },
+            "nose_center_offset": {
+              "current": -0.0379,
+              "baseline_mean": 0.0025,
+              "delta": -0.0404,
+              "absolute_delta": 0.0404,
+              "tolerance": 0.06,
+              "changed": false
+            },
+            "mouth_eye_distance": {
+              "current": 0.4612,
+              "baseline_mean": 0.4457,
+              "delta": 0.0155,
+              "absolute_delta": 0.0155,
+              "tolerance": 0.08,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:46:40+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.742,
+        "features": {
+          "mouth_tilt": 0.0028,
+          "nose_center_offset": -0.0171,
+          "mouth_eye_distance": 0.4568,
+          "head_roll_degrees": -0.01,
+          "yaw_proxy": 0.002,
+          "landmark_stability": 0.742,
+          "measurement_quality": 0.742
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "mouth_tilt": {
+              "current": 0.0028,
+              "baseline_mean": 0.0078,
+              "delta": -0.005,
+              "absolute_delta": 0.005,
+              "tolerance": 0.04,
+              "changed": false
+            },
+            "nose_center_offset": {
+              "current": -0.0171,
+              "baseline_mean": 0.0025,
+              "delta": -0.0196,
+              "absolute_delta": 0.0196,
+              "tolerance": 0.06,
+              "changed": false
+            },
+            "mouth_eye_distance": {
+              "current": 0.4568,
+              "baseline_mean": 0.4457,
+              "delta": 0.0111,
+              "absolute_delta": 0.0111,
+              "tolerance": 0.08,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T21:49:46+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.78,
+        "features": {
+          "mouth_tilt": 0.0017,
+          "nose_center_offset": -0.0193,
+          "mouth_eye_distance": 0.4624,
+          "head_roll_degrees": 0.45,
+          "yaw_proxy": 0.0026,
+          "landmark_stability": 0.78,
+          "measurement_quality": 0.78
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "mouth_tilt": {
+              "current": 0.0017,
+              "baseline_mean": 0.0078,
+              "delta": -0.0061,
+              "absolute_delta": 0.0061,
+              "tolerance": 0.04,
+              "changed": false
+            },
+            "nose_center_offset": {
+              "current": -0.0193,
+              "baseline_mean": 0.0025,
+              "delta": -0.0218,
+              "absolute_delta": 0.0218,
+              "tolerance": 0.06,
+              "changed": false
+            },
+            "mouth_eye_distance": {
+              "current": 0.4624,
+              "baseline_mean": 0.4457,
+              "delta": 0.0167,
+              "absolute_delta": 0.0167,
+              "tolerance": 0.08,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T22:03:41+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.659,
+        "features": {
+          "mouth_tilt": 0.0032,
+          "nose_center_offset": -0.0436,
+          "mouth_eye_distance": 0.4607,
+          "head_roll_degrees": 2.79,
+          "yaw_proxy": 0.0276,
+          "landmark_stability": 0.659,
+          "measurement_quality": 0.659
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "mouth_tilt": {
+              "current": 0.0032,
+              "baseline_mean": 0.0078,
+              "delta": -0.0046,
+              "absolute_delta": 0.0046,
+              "tolerance": 0.04,
+              "changed": false
+            },
+            "nose_center_offset": {
+              "current": -0.0436,
+              "baseline_mean": 0.0025,
+              "delta": -0.0461,
+              "absolute_delta": 0.0461,
+              "tolerance": 0.06,
+              "changed": false
+            },
+            "mouth_eye_distance": {
+              "current": 0.4607,
+              "baseline_mean": 0.4457,
+              "delta": 0.015,
+              "absolute_delta": 0.015,
+              "tolerance": 0.08,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T22:16:05+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.638,
+        "features": {
+          "mouth_tilt": 0.0023,
+          "nose_center_offset": -0.0456,
+          "mouth_eye_distance": 0.4652,
+          "head_roll_degrees": 2.69,
+          "yaw_proxy": 0.0317,
+          "landmark_stability": 0.638,
+          "measurement_quality": 0.638
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "mouth_tilt": {
+              "current": 0.0023,
+              "baseline_mean": 0.0078,
+              "delta": -0.0055,
+              "absolute_delta": 0.0055,
+              "tolerance": 0.04,
+              "changed": false
+            },
+            "nose_center_offset": {
+              "current": -0.0456,
+              "baseline_mean": 0.0025,
+              "delta": -0.0481,
+              "absolute_delta": 0.0481,
+              "tolerance": 0.06,
+              "changed": false
+            },
+            "mouth_eye_distance": {
+              "current": 0.4652,
+              "baseline_mean": 0.4457,
+              "delta": 0.0195,
+              "absolute_delta": 0.0195,
+              "tolerance": 0.08,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    },
+    {
+      "timestamp": "2026-09-19T22:17:48+09:00",
+      "result": {
+        "success": true,
+        "quality": 0.846,
+        "features": {
+          "mouth_tilt": 0.007,
+          "nose_center_offset": -0.0299,
+          "mouth_eye_distance": 0.4275,
+          "head_roll_degrees": 1.24,
+          "yaw_proxy": 0.0138,
+          "landmark_stability": 0.846,
+          "measurement_quality": 0.846
+        },
+        "change_from_baseline": {
+          "available": true,
+          "sample_count": 3,
+          "significant_change": false,
+          "features": {
+            "mouth_tilt": {
+              "current": 0.007,
+              "baseline_mean": 0.0078,
+              "delta": -0.0008,
+              "absolute_delta": 0.0008,
+              "tolerance": 0.04,
+              "changed": false
+            },
+            "nose_center_offset": {
+              "current": -0.0299,
+              "baseline_mean": 0.0025,
+              "delta": -0.0324,
+              "absolute_delta": 0.0324,
+              "tolerance": 0.06,
+              "changed": false
+            },
+            "mouth_eye_distance": {
+              "current": 0.4275,
+              "baseline_mean": 0.4457,
+              "delta": -0.0182,
+              "absolute_delta": 0.0182,
+              "tolerance": 0.08,
+              "changed": false
+            }
+          }
+        },
+        "error": null
+      }
+    }
+  ]
+}

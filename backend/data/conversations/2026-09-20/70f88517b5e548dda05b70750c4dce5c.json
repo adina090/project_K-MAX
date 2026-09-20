@@ -1,0 +1,73 @@
+{
+  "conversation_id": "70f88517b5e548dda05b70750c4dce5c",
+  "event_id": "0a08f357ae7741abba30b16b23440229",
+  "timestamp": "2026-09-20T10:00:05+09:00",
+  "agent_question": "오늘 점심에는 어떤 음식을 맛있게 드셨나요?",
+  "transcript": "모니터 아이패드",
+  "voice_features": {},
+  "comparison_to_baseline": {},
+  "context_summary": "",
+  "next_action": "finished",
+  "urgent_alert": false,
+  "urgent_message": null,
+  "provider": "gemini",
+  "measurement_context": {
+    "pose": null,
+    "face": null
+  },
+  "screening_context": {
+    "pose_signal": false,
+    "face_signal": false,
+    "changed_pose_features": [],
+    "changed_face_features": [],
+    "needs_confirmation": false
+  },
+  "routine_mode": "periodic",
+  "context_issue_count": 2,
+  "voice_concern": true,
+  "follow_up_count": 2,
+  "turns": [
+    {
+      "role": "agent",
+      "message": "오늘 점심에는 어떤 음식을 맛있게 드셨나요?"
+    },
+    {
+      "role": "user",
+      "message": "아, 저녁물..."
+    },
+    {
+      "role": "agent",
+      "message": "저녁 물이라고 말씀해주셨군요. 제가 잘 이해하지 못해 죄송해요. 오늘 점심에는 어떤 음식을 드셨는지 편안하게 다시 한번 말씀해주시겠어요? 혹시 더 들려주실 말씀이 있으신가요?"
+    },
+    {
+      "role": "user",
+      "message": "모니터 아이패드"
+    },
+    {
+      "role": "agent",
+      "message": "아, 주변에 모니터와 아이패드가 보이시는군요. 오늘 점심에 어떤 음식을 드셨는지 궁금해서 여쭤보았는데, 혹시 생각나는 음식이 있으실까요? 편안하게 말씀해 주세요. 혹시 더 들려주실 말씀이 있으신가요?"
+    },
+    {
+      "role": "agent",
+      "message": "추가로 하실 말씀은 없는 것으로 확인했습니다. 다음 확인 시간에 다시 찾아뵙겠습니다."
+    }
+  ],
+  "transcript_duration": 7.61,
+  "voice_transcripts": [
+    {
+      "timestamp": "2026-09-20T10:00:27+09:00",
+      "transcript": "아, 저녁물...",
+      "duration": 7.7
+    },
+    {
+      "timestamp": "2026-09-20T10:00:53+09:00",
+      "transcript": "모니터 아이패드",
+      "duration": 7.61
+    }
+  ],
+  "context_analysis": {
+    "input_mode": "voice_timeout",
+    "response_length": 0,
+    "action": "finish"
+  }
+}

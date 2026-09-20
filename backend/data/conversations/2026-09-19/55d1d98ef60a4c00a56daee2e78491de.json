@@ -1,0 +1,40 @@
+{
+  "conversation_id": "55d1d98ef60a4c00a56daee2e78491de",
+  "event_id": "daf0803a44dd423fb667c2ad961ec075",
+  "timestamp": "2026-09-19T20:13:34+09:00",
+  "agent_question": "오늘 점심은 어떤 맛있는 음식을 드셨나요?",
+  "transcript": "",
+  "voice_features": {},
+  "comparison_to_baseline": {},
+  "context_summary": "",
+  "next_action": "finished",
+  "provider": "gemini",
+  "follow_up_count": 1,
+  "turns": [
+    {
+      "role": "agent",
+      "message": "오늘 점심은 어떤 맛있는 음식을 드셨나요?"
+    },
+    {
+      "role": "user",
+      "message": "어 있어"
+    },
+    {
+      "role": "agent",
+      "message": "맛있는 점심을 드셨군요! 어떤 음식을 드셨는지 조금만 더 이야기해 주실 수 있나요?"
+    },
+    {
+      "role": "user",
+      "message": "샐러드"
+    },
+    {
+      "role": "agent",
+      "message": "이야기해 주셔서 고마워요. 다음 확인 시간에 다시 이야기할게요."
+    }
+  ],
+  "context_analysis": {
+    "input_mode": "text",
+    "response_length": 3,
+    "action": "finish"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "conversation_id": "8067993202544d408ca94e9c34b36932",
+  "event_id": "fixed-routine-34f52662-32c8-4ec8-8ff4-07642202182a",
+  "timestamp": "2026-09-19T21:49:51+09:00",
+  "agent_question": "오늘 가볍게 바깥바람을 쐬거나 산책을 다녀오셨나요?",
+  "transcript": "(끝)\n(끝)\n(끝)\n(끝)\n(끝)\n없어!",
+  "voice_features": {},
+  "comparison_to_baseline": {},
+  "context_summary": "",
+  "next_action": "finished",
+  "urgent_alert": false,
+  "urgent_message": null,
+  "provider": "gemini",
+  "measurement_context": {
+    "pose": {
+      "success": true,
+      "quality": 0.984,
+      "features": {
+        "left_arm_angle": 37.29,
+        "right_arm_angle": 71.55,
+        "arm_angle_difference": 34.26,
+        "left_arm_height": -0.0389,
+        "right_arm_height": 0.0664,
+        "wrist_height_difference": 0.1234,
+        "measurement_quality": 0.984
+      },
+      "change_from_baseline": {
+        "available": true,
+        "sample_count": 3,
+        "significant_change": true,
+        "features": {
+          "left_arm_angle": {
+            "current": 37.29,
+            "baseline_mean": 70.72,
+            "delta": -33.43,
+            "absolute_delta": 33.43,
+            "tolerance": 43.593,
+            "changed": false
+          },
+          "right_arm_angle": {
+            "current": 71.55,
+            "baseline_mean": 66.8667,
+            "delta": 4.6833,
+            "absolute_delta": 4.6833,
+            "tolerance": 129.7377,
+            "changed": false
+          },
+          "arm_angle_difference": {
+            "current": 34.26,
+            "baseline_mean": 26.1733,
+            "delta": 8.0867,
+            "absolute_delta": 8.0867,
+            "tolerance": 45.0759,
+            "changed": false
+          },
+          "left_arm_height": {
+            "current": -0.0389,
+            "baseline_mean": 0.0238,
+            "delta": -0.0627,
+            "absolute_delta": 0.0627,
+            "tolerance": 0.4611,
+            "changed": false
+          },
+          "right_arm_height": {
+            "current": 0.0664,
+            "baseline_mean": 0.0249,
+            "delta": 0.0415,
+            "absolute_delta": 0.0415,
+            "tolerance": 0.4656,
+            "changed": false
+          },
+          "wrist_height_difference": {
+            "current": 0.1234,
+            "baseline_mean": 0.0135,
+            "delta": 0.1099,
+            "absolute_delta": 0.1099,
+            "tolerance": 0.06,
+            "changed": true
+          }
+        }
+      },
+      "error": null
+    },
+    "face": {
+      "success": true,
+      "quality": 0.78,
+      "features": {
+        "mouth_tilt": 0.0017,
+        "nose_center_offset": -0.0193,
+        "mouth_eye_distance": 0.4624,
+        "head_roll_degrees": 0.45,
+        "yaw_proxy": 0.0026,
+        "landmark_stability": 0.78,
+        "measurement_quality": 0.78
+      },
+      "change_from_baseline": {
+        "available": true,
+        "sample_count": 3,
+        "significant_change": false,
+        "features": {
+          "mouth_tilt": {
+            "current": 0.0017,
+            "baseline_mean": 0.0078,
+            "delta": -0.0061,
+            "absolute_delta": 0.0061,
+            "tolerance": 0.04,
+            "changed": false
+          },
+          "nose_center_offset": {
+            "current": -0.0193,
+            "baseline_mean": 0.0025,
+            "delta": -0.0218,
+            "absolute_delta": 0.0218,
+            "tolerance": 0.06,
+            "changed": false
+          },
+          "mouth_eye_distance": {
+            "current": 0.4624,
+            "baseline_mean": 0.4457,
+            "delta": 0.0167,
+            "absolute_delta": 0.0167,
+            "tolerance": 0.08,
+            "changed": false
+          }
+        }
+      },
+      "error": null
+    }
+  },
+  "follow_up_count": 1,
+  "turns": [
+    {
+      "role": "agent",
+      "message": "오늘 가볍게 바깥바람을 쐬거나 산책을 다녀오셨나요?"
+    },
+    {
+      "role": "user",
+      "message": "갔다 왔어"
+    },
+    {
+      "role": "agent",
+      "message": "산책 잘 다녀오셨어요! 오늘 바깥 날씨는 어땠는지 궁금해요. 혹시 더 하실 말 있으신가요?"
+    },
+    {
+      "role": "user",
+      "message": "(끝)\n(끝)\n(끝)\n(끝)\n(끝)\n없어!"
+    },
+    {
+      "role": "agent",
+      "message": "네, 알겠습니다. 오늘 산책 다녀오신 것 정말 잘하셨어요. 편안하고 따뜻한 하루 보내세요!"
+    }
+  ],
+  "transcript_duration": 4.42,
+  "voice_transcripts": [
+    {
+      "timestamp": "2026-09-19T21:50:06+09:00",
+      "transcript": "갔다 왔어",
+      "duration": 4.69
+    },
+    {
+      "timestamp": "2026-09-19T21:50:32+09:00",
+      "transcript": "(끝)\n(끝)\n(끝)\n(끝)\n(끝)\n없어!",
+      "duration": 4.42
+    }
+  ],
+  "context_analysis": {
+    "input_mode": "voice",
+    "response_length": 23,
+    "action": "finish"
+  }
+}

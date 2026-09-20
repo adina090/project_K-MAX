@@ -1,0 +1,56 @@
+{
+  "conversation_id": "3c4ac5bd4d144476bb8d1fdfafc4c126",
+  "event_id": "demo-14-811c735c-36e5-4775-ba0a-3245b00ac670",
+  "timestamp": "2026-09-20T10:32:52+09:00",
+  "agent_question": "오늘 하루를 보내시면서 가장 기분 좋았던 순간은 언제이셨나요?",
+  "transcript": "",
+  "voice_features": {},
+  "comparison_to_baseline": {},
+  "context_summary": "",
+  "next_action": "finished",
+  "urgent_alert": false,
+  "urgent_message": null,
+  "provider": "gemini",
+  "measurement_context": {
+    "pose": null,
+    "face": null
+  },
+  "screening_context": {
+    "pose_signal": false,
+    "face_signal": false,
+    "changed_pose_features": [],
+    "changed_face_features": [],
+    "needs_confirmation": false
+  },
+  "routine_mode": "periodic",
+  "context_issue_count": 0,
+  "voice_concern": false,
+  "follow_up_count": 1,
+  "turns": [
+    {
+      "role": "agent",
+      "message": "오늘 하루를 보내시면서 가장 기분 좋았던 순간은 언제이셨나요?"
+    },
+    {
+      "role": "user",
+      "message": "오늘"
+    },
+    {
+      "role": "agent",
+      "message": "오늘 하루 전체가 기분 좋은 날이셨군요. 그중에서도 특히 맛있는 음식을 드셨거나 마음이 편안했던 순간이 있으셨는지 궁금해요. 혹시 더 들려주실 말씀이 있으신가요?"
+    },
+    {
+      "role": "user",
+      "message": "없어"
+    },
+    {
+      "role": "agent",
+      "message": "알겠습니다. 말씀해 주셔서 감사합니다. 다음 확인 시간에 다시 찾아뵙겠습니다."
+    }
+  ],
+  "context_analysis": {
+    "input_mode": "text",
+    "response_length": 2,
+    "action": "finish"
+  }
+}

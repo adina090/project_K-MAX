@@ -1,0 +1,170 @@
+{
+  "conversation_id": "8ef904b35ab94517a1e3bd31ce82a792",
+  "event_id": "demo-8-03256948-7047-4e53-9cb9-934bedaa47a2",
+  "timestamp": "2026-09-20T10:14:41+09:00",
+  "agent_question": "팔 측정에서 평소와 다른 좌우 차이가 보였습니다. 측정만으로 질환을 판단할 수는 없습니다. 혹시 지금 갑자기 한쪽 팔에 힘이 빠지거나 들기 어려운 증상이 있으신가요?",
+  "transcript": "",
+  "voice_features": {},
+  "comparison_to_baseline": {},
+  "context_summary": "",
+  "next_action": "finished",
+  "urgent_alert": true,
+  "urgent_message": "갑작스러운 신경학적 증상(사용자가 확인한 팔 증상)이 확인되어 염려됩니다. 측정만으로 뇌졸중 여부를 확정할 수는 없지만, 안전을 위해 지금 바로 119에 연락해 주시기 바랍니다.",
+  "provider": "gemini",
+  "measurement_context": {
+    "pose": {
+      "success": true,
+      "quality": 0.985,
+      "features": {
+        "left_arm_angle": 36.5,
+        "right_arm_angle": 68.93,
+        "arm_angle_difference": 32.43,
+        "left_arm_height": -0.0461,
+        "right_arm_height": 0.0639,
+        "wrist_height_difference": 0.1312,
+        "measurement_quality": 0.985
+      },
+      "change_from_baseline": {
+        "available": true,
+        "sample_count": 3,
+        "significant_change": true,
+        "features": {
+          "left_arm_angle": {
+            "current": 36.5,
+            "baseline_mean": 70.72,
+            "delta": -34.22,
+            "absolute_delta": 34.22,
+            "tolerance": 43.593,
+            "changed": false
+          },
+          "right_arm_angle": {
+            "current": 68.93,
+            "baseline_mean": 66.8667,
+            "delta": 2.0633,
+            "absolute_delta": 2.0633,
+            "tolerance": 129.7377,
+            "changed": false
+          },
+          "arm_angle_difference": {
+            "current": 32.43,
+            "baseline_mean": 26.1733,
+            "delta": 6.2567,
+            "absolute_delta": 6.2567,
+            "tolerance": 45.0759,
+            "changed": false
+          },
+          "left_arm_height": {
+            "current": -0.0461,
+            "baseline_mean": 0.0238,
+            "delta": -0.0699,
+            "absolute_delta": 0.0699,
+            "tolerance": 0.4611,
+            "changed": false
+          },
+          "right_arm_height": {
+            "current": 0.0639,
+            "baseline_mean": 0.0249,
+            "delta": 0.039,
+            "absolute_delta": 0.039,
+            "tolerance": 0.4656,
+            "changed": false
+          },
+          "wrist_height_difference": {
+            "current": 0.1312,
+            "baseline_mean": 0.0135,
+            "delta": 0.1177,
+            "absolute_delta": 0.1177,
+            "tolerance": 0.06,
+            "changed": true
+          }
+        }
+      },
+      "error": null
+    },
+    "face": {
+      "success": true,
+      "quality": 0.976,
+      "features": {
+        "mouth_tilt": 0.0036,
+        "nose_center_offset": -0.0363,
+        "mouth_eye_distance": 0.4696,
+        "head_roll_degrees": 1.66,
+        "yaw_proxy": 0.0185,
+        "landmark_stability": 0.976,
+        "measurement_quality": 0.976
+      },
+      "change_from_baseline": {
+        "available": true,
+        "sample_count": 3,
+        "significant_change": false,
+        "features": {
+          "mouth_tilt": {
+            "current": 0.0036,
+            "baseline_mean": 0.0078,
+            "delta": -0.0042,
+            "absolute_delta": 0.0042,
+            "tolerance": 0.04,
+            "changed": false
+          },
+          "nose_center_offset": {
+            "current": -0.0363,
+            "baseline_mean": 0.0025,
+            "delta": -0.0388,
+            "absolute_delta": 0.0388,
+            "tolerance": 0.06,
+            "changed": false
+          },
+          "mouth_eye_distance": {
+            "current": 0.4696,
+            "baseline_mean": 0.4457,
+            "delta": 0.0239,
+            "absolute_delta": 0.0239,
+            "tolerance": 0.08,
+            "changed": false
+          }
+        }
+      },
+      "error": null
+    }
+  },
+  "screening_context": {
+    "pose_signal": true,
+    "face_signal": false,
+    "changed_pose_features": [
+      "wrist_height_difference"
+    ],
+    "changed_face_features": [],
+    "needs_confirmation": true
+  },
+  "routine_mode": "morning",
+  "context_issue_count": 0,
+  "voice_concern": false,
+  "follow_up_count": 1,
+  "turns": [
+    {
+      "role": "agent",
+      "message": "팔 측정에서 평소와 다른 좌우 차이가 보였습니다. 측정만으로 질환을 판단할 수는 없습니다. 혹시 지금 갑자기 한쪽 팔에 힘이 빠지거나 들기 어려운 증상이 있으신가요?"
+    },
+    {
+      "role": "user",
+      "message": "나 모니터"
+    },
+    {
+      "role": "agent",
+      "message": "죄송하지만 말씀을 정확히 이해하지 못했습니다. 안내드린 증상이 있으시면 ‘있어요’, 없으시면 ‘없어요’라고 말씀해 주시겠어요?"
+    },
+    {
+      "role": "user",
+      "message": "있어요"
+    },
+    {
+      "role": "agent",
+      "message": "갑작스러운 뇌졸중 위험 신호일 수 있어 염려됩니다. 증상이 시작된 시간을 확인하시고 지금 바로 119에 연락해 주시기 바랍니다."
+    }
+  ],
+  "context_analysis": {
+    "input_mode": "text",
+    "response_length": 3,
+    "action": "finish"
+  }
+}
